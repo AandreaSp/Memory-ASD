@@ -1,0 +1,23 @@
+# Maven
+target/
+**/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/timing.properties
+
+# IDE
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+bin/
+out/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs/Temp
+*.log
+*.tmp
